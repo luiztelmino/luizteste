@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/08/17 13:32:02.000.077,=C:\Users\eduardo.dantas\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2018/08/23 08:16:40.000.696,=C:\Users\eduardo.dantas\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2019/04/26 07:59:07.000.568,=C:\Users\eduardo.dantas\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2019/05/28 14:42:16.000.199,=C:\Users\eduardo.dantas\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2019/08/06 17:25:37.000.329,=C:\Users\eduardo.dantas\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2019/08/06 17:37:59.000.591,C:\Users\eduardo.dantas\Documents\Embarcadero\Studio\Projects\Unit2.pas=C:\Users\eduardo.dantas\Documents\Luiz\Ucorrentista.pas</Transaction>
+    <Transaction>2019/08/06 17:37:59.000.591,C:\Users\eduardo.dantas\Documents\Embarcadero\Studio\Projects\Unit2.dfm=C:\Users\eduardo.dantas\Documents\Luiz\Ucorrentista.dfm</Transaction>
+    <Transaction>2019/08/06 17:47:16.000.939,=C:\Users\eduardo.dantas\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2019/08/06 17:48:23.000.339,C:\Users\eduardo.dantas\Documents\Embarcadero\Studio\Projects\Unit3.dfm=C:\Users\eduardo.dantas\Documents\Luiz\Umovimentacao.dfm</Transaction>
+    <Transaction>2019/08/06 17:48:23.000.339,C:\Users\eduardo.dantas\Documents\Embarcadero\Studio\Projects\Unit3.pas=C:\Users\eduardo.dantas\Documents\Luiz\Umovimentacao.pas</Transaction>
+    <Transaction>2019/08/06 17:52:44.000.846,C:\Users\eduardo.dantas\Documents\Embarcadero\Studio\Projects\Project3.dproj=C:\Users\eduardo.dantas\Documents\Luiz\TesteLuiz.dproj</Transaction>
+    <Transaction>2019/08/07 13:30:24.000.826,=C:\TESTE LUIZ\Luiz\Luiz\Unit1.pas</Transaction>
+    <Transaction>2019/08/07 13:30:56.000.974,C:\TESTE LUIZ\Luiz\Luiz\Umovimentacao.pas=</Transaction>
+    <Transaction>2019/08/07 13:31:38.000.699,C:\TESTE LUIZ\Luiz\Luiz\Unit1.dfm=C:\TESTE LUIZ\Luiz\Luiz\Umovimentacao.dfm</Transaction>
+    <Transaction>2019/08/07 13:31:38.000.699,C:\TESTE LUIZ\Luiz\Luiz\Unit1.pas=C:\TESTE LUIZ\Luiz\Luiz\Umovimentacao.pas</Transaction>
+    <Transaction>2019/08/07 13:58:54.000.353,=C:\TESTE LUIZ\Luiz\Luiz\Unit1.pas</Transaction>
+    <Transaction>2019/08/07 14:00:14.000.862,C:\TESTE LUIZ\Luiz\Luiz\Unit1.dfm=C:\TESTE LUIZ\Luiz\Luiz\UdmDados.dfm</Transaction>
+    <Transaction>2019/08/07 14:00:14.000.862,C:\TESTE LUIZ\Luiz\Luiz\Unit1.pas=C:\TESTE LUIZ\Luiz\Luiz\UdmDados.pas</Transaction>
+    <Transaction>2019/08/07 17:37:24.338,=C:\TESTE LUIZ\Luiz\Luiz\Unit1.pas</Transaction>
+    <Transaction>2019/08/07 17:41:08.228,C:\TESTE LUIZ\Luiz\Luiz\Ufiltros.pas=C:\TESTE LUIZ\Luiz\Luiz\Unit1.pas</Transaction>
+    <Transaction>2019/08/07 17:41:08.228,C:\TESTE LUIZ\Luiz\Luiz\Ufiltros.dfm=C:\TESTE LUIZ\Luiz\Luiz\Unit1.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
